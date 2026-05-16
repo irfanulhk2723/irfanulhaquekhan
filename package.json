@@ -1,0 +1,9 @@
+{
+  "name": "irfan-portfolio-chat",
+  "version": "1.0.0",
+  "description": "AI chatbot integration for Irfanul Haque Khan portfolio",
+  "main": "index.html",
+  "dependencies": {
+    "@google/genai": "^0.1.1"
+  }
+}
